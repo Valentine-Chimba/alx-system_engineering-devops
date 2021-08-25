@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" >>/c/Users/Valentine/alx-system_engineering-devops/0x02-shell_redirections/\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+echo "Best School" >touch /c/Users/Valentine/alx-system_engineering-devops/0x02-shell_redirections/\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
