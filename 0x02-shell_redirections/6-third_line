@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 /c/Users/Valentine/alx-system_engineering-devops/0x02-shell_redirections/iacta | tail +3
+head -n 3 iacta | tail -n 1
